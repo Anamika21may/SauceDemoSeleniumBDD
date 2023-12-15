@@ -26,7 +26,7 @@ public class BaseTestClass {
         loadProperties();
         String browserName = prop.getProperty("Browser");
         if (browserName.equalsIgnoreCase("Chrome")) {
-        	System.setProperty("webdriver.chrome.driver", "C:\\Users\\91730\\OneDrive\\Documents\\Softwares\\chromedriver.exe");
+        	System.setProperty("webdriver.chrome.driver","C:\\Users\\Administrator\\chromedriver.exe");
 			driver = new ChromeDriver();
         } else if (browserName.equalsIgnoreCase("Edge")) {
             driver = new EdgeDriver();

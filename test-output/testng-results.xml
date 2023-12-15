@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-12-13T10:03:49 IST" name="Swag Labs Order suite" finished-at="2023-12-13T10:04:51 IST" duration-ms="62037">
+  <suite started-at="2023-12-15T09:06:50 IST" name="Swag Labs Order suite" finished-at="2023-12-15T09:07:52 IST" duration-ms="62356">
     <groups>
     </groups>
-    <test started-at="2023-12-13T10:03:49 IST" name="SwagLabsTest" finished-at="2023-12-13T10:04:51 IST" duration-ms="62037">
+    <test started-at="2023-12-15T09:06:50 IST" name="SwagLabsTest" finished-at="2023-12-15T09:07:52 IST" duration-ms="62356">
       <class name="tests.swagLabsTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.swagLabsTest@145f66e3]" started-at="2023-12-13T10:03:45 IST" name="setUp" finished-at="2023-12-13T10:03:49 IST" duration-ms="4580" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.swagLabsTest@5a59ca5e]" started-at="2023-12-15T09:06:45 IST" name="setUp" finished-at="2023-12-15T09:06:50 IST" duration-ms="4473" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifySauceDemo_ThankYouOrderTest(java.lang.String,java.lang.String)[pri:0, instance:tests.swagLabsTest@145f66e3]" started-at="2023-12-13T10:03:49 IST" name="verifySauceDemo_ThankYouOrderTest" data-provider="loginCredentials" finished-at="2023-12-13T10:04:51 IST" duration-ms="61656" status="PASS">
+        <test-method signature="verifySauceDemo_ThankYouOrderTest(java.lang.String,java.lang.String)[pri:0, instance:tests.swagLabsTest@5a59ca5e]" started-at="2023-12-15T09:06:50 IST" name="verifySauceDemo_ThankYouOrderTest" data-provider="loginCredentials" finished-at="2023-12-15T09:07:51 IST" duration-ms="61509" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -27,7 +27,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifySauceDemo_ThankYouOrderTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.swagLabsTest@145f66e3]" started-at="2023-12-13T10:04:51 IST" name="tearDown" finished-at="2023-12-13T10:04:51 IST" duration-ms="354" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.swagLabsTest@5a59ca5e]" started-at="2023-12-15T09:07:51 IST" name="tearDown" finished-at="2023-12-15T09:07:52 IST" duration-ms="802" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
